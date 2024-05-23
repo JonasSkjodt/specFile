@@ -1,2 +1,0 @@
-/specfile.csv
-/specfile2.csv
